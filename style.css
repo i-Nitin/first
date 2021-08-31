@@ -1,0 +1,40 @@
+h1{
+    color:green;
+}
+a{
+    text-align:center;
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:blue;
+}
+a:visited{
+    color:rgb(136, 111, 111);
+}
+.head2{
+    text-align :center;
+    border:5px rgb(19, 17, 17) solid;
+    padding:10px;
+    margin:40px;
+    border-radius:10px;
+}
+.box1{
+    color: blue;
+    background-color:black;
+}
+.container{
+    width :80%;
+    margin:auto;
+}
+body{
+    background-color:rgb(3, 3, 3);
+    color:rgb(222, 226, 219);
+    font: bold 20px Arial,Helvetica,sans;
+}
+.my-form label{
+    display:block;
+}

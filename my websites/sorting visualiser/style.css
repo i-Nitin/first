@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-style:italic;
+    padding:20px;
+    margin:20px;
+}
+.grid{
+    display: flex;
+    flex-flow: row wrap;
+    width: 620px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 100px auto;
+}
+.grid div{
+    width: 60px;
+    height: inherit;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: 700;
+    color: black;
+    font-size: x-large;
+}
+.exchange{
+    background-color: red;
+}
